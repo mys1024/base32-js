@@ -1,0 +1,15 @@
+{
+  "name": "js-base32",
+  "version": "0.9.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "types": "dist/index.d.ts",
+  "author": "mys1024",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
